@@ -1,7 +1,7 @@
 # CSVNeg2Pos
 # Language: Python
-# Input: CSV (samples)
-# Output: screen
+# Input: CSV
+# Output: CSV
 # Tested with: PluMA 1.0, Python 2.7
 
 A PluMA plugin that takes a CSV file as input and adds one
