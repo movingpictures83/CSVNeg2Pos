@@ -1,0 +1,2 @@
+Prefix plugins/CSVNeg2Pos/example
+Plugin CSVNeg2Pos inputfile corrP.never.csv outputfile corrP.never.positive.csv
