@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV
 # Output: CSV
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 A PluMA plugin that takes a CSV file as input and adds one
 to each value.  This is useful for immediately mapping an edge weight range
