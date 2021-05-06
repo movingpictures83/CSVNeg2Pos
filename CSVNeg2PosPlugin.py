@@ -38,7 +38,7 @@ class CSVNeg2PosPlugin:
       for i in range(self.m):
          filestuff2.write(self.samples[i]+',')
          for j in range(self.n):
-            filestuff2.write(str(self.ADJ[i][j]+1))
+            filestuff2.write(str(abs(float(self.ADJ[i][j]))))
             if (j < self.n-1):
                filestuff2.write(",")
             else:
